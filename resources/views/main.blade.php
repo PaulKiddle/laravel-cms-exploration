@@ -12,6 +12,7 @@
 	</head>
 	<body>
 		<h1>Laravel CMS Exploration</h1>
+		Source Code: <a href='https://github.com/PaulKiddle/laravel-cms-exploration'>https://github.com/PaulKiddle/laravel-cms-exploration</a>
 
 		<div style='display: flex; gap: 2em;'>
 			<div style='flex: 40% 1 0;'>
